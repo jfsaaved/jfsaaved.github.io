@@ -41,41 +41,54 @@ of those sections to manage the look and feel of the site. */
     text-align: center;
 	text-shadow: 3px 3px black;
 	color: white;
-	background-image: url(../assets/background1.jpg);
+	background-image: url(../assets/background4.jpg);
 }
 
 .about-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-	color: white;
-	background-image: url(../assets/background2.jpg);
+	text-shadow:
+    -1px -1px 0 white,
+    1px -1px 0 white,
+    -1px 1px 0 white,
+    1px 1px 0 white;  
+	color: black;
+	background-image: url(../assets/background3.jpg);
 }
 
 .projects-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+	text-shadow: 3px 3px black;
+	color: white;
+	background-image: url(../assets/background2.jpg);
 }
 
 .music-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 100px;
     text-align: center;
-    background: #eee;
+	text-shadow: 3px 3px black;
+	color: white;
+	background-image: url(../assets/background1.jpg);
 }
 
 .resume-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    text-shadow: 3px 3px black;
+	color: white;
+	background-image: url(../assets/background5.jpg);
 }
 
 .contact-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-     background: #eee;
+    text-shadow: 3px 3px black;
+	color: white;
+	background-image: url(../assets/background6.jpg);
 }
