@@ -59,7 +59,7 @@ of those sections to manage the look and feel of the site. */
 
 .projects-section {
     height: 100%;
-    padding-top: 100px;
+    padding-top: 30px;
     text-align: center;
 	text-shadow: 3px 3px black;
 	color: white;
@@ -67,7 +67,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .projects-section #myCarousel img{
-	width: auto;
+	margin: 0 auto;
 	height: 225px;
 	max-height: 225px;
 }
