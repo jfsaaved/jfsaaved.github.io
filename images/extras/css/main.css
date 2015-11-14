@@ -2449,9 +2449,7 @@
 /* Header */
 
 	#header {
-		background: #222222;
-		background-attachment: scroll;
-		/*background-image: url("../../images/bg.jpg");*/
+		background: #4acaa8;
 		color: #d1f1e9;
 		height: 100%;
 		position: fixed;
@@ -2465,9 +2463,8 @@
 			color: #ffffff;
 		}
 
-			/* name */
 			#header h1 a, #header h2 a, #header h3 a, #header h4 a, #header h5 a, #header h6 a {
-				color: rgba(255, 255, 255, 0.5);
+				color: #ffffff;
 			}
 
 		#header header p {
@@ -2526,7 +2523,7 @@
 		}
 
 			#header > nav ul li {
-				/*border-top: solid 2px #5ccfb0;*/
+				border-top: solid 2px #5ccfb0;
 				display: block;
 				padding: 0;
 			}
