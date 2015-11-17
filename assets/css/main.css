@@ -2379,7 +2379,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #4acaa8;
+			background-color: #333333;
 			color: #ffffff !important;
 		}
 
@@ -2387,7 +2387,7 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #5ed0b1;
+				background-color: #555555;
 			}
 
 			input[type="submit"].special:active,
